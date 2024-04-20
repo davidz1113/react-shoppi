@@ -1,0 +1,32 @@
+.list-orders-border-left-blue {
+  border-left: 8px solid #0077b6;
+}
+
+.list-orders-border-left-red {
+  border-left: 8px solid #ff0000;
+}
+
+.list-orders-border-left-green {
+  border-left: 8px solid #00ff00;
+}
+
+.list-orders-border-left-yellow {
+  border-left: 8px solid #ffcc00;
+}
+
+.list-orders-border-left-purple {
+  border-left: 8px solid #7f00ff;
+}
+
+.list-orders-border-left-orange {
+  border-left: 8px solid #ff5733;
+}
+
+.list-orders-border-left-pink {
+  border-left: 8px solid #ff007f;
+}
+
+.list-orders-border-left-gray {
+  border-left: 8px solid #808080;
+}
+
